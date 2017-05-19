@@ -1,0 +1,6 @@
+".source.js":
+  'import':
+    'prefix': 'import'
+    'body': """
+import $1 from '$1'$0
+    """
