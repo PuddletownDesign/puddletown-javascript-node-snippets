@@ -1,0 +1,17 @@
+{
+    "name": "puddletown-javascript-node-snippets",
+    "main": "./lib/puddletown-javascript-node-snippets",
+    "version": "1.0.0",
+    "description": "A collection of Javascript standard format snippets from Puddletown Design. node and node snippets sold separately",
+    "keywords": [
+        "snippets",
+        "javascript",
+        "node"
+    ],
+    "repository": "https://github.com/PuddletownDesign/puddletown-javascript-node-snippets",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {}
+}
