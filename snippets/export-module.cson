@@ -1,4 +1,0 @@
-".source.js":
-  'export module':
-    'prefix': 'em'
-    'body': 'module.exports = ${1:name};'
