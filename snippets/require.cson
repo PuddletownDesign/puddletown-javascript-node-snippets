@@ -2,5 +2,5 @@
   'require':
     'prefix': 'require'
     'body': """
-const $1 = require('$1')$0
+const $1 = require('$1')$0;
     """

@@ -2,5 +2,5 @@
   'import':
     'prefix': 'import'
     'body': """
-import $1 from '$1'$0
+import $1 from '$1'$0;
     """

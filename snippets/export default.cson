@@ -1,0 +1,4 @@
+".source.js":
+  'export module':
+    'prefix': 'ed'
+    'body': 'export default $0;'

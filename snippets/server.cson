@@ -2,20 +2,20 @@
  'server':
    'prefix': 'server'
    'body': """
-const http = require('http')
+const http = require('http');
 
-const port = 3000
+const port = 3000;
 
 const requestHandler = (req, res) => {
- console.log(req.url)
+ console.log(req.url);
 }
-const server = http.createServer(requestHandler)
+const server = http.createServer(requestHandler);
 
 server.listen(port, (err) => {
  if (err) {
-   return console.log(err)
+   return console.log(err);
  }
- console.log(`server is running on ${port}`)
+ console.log(`server is running on ${port}`);
 })
 $0
 """
