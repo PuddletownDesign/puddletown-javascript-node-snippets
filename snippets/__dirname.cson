@@ -1,0 +1,6 @@
+".source.js":
+  '__dirname':
+    'prefix': '__dirname'
+    'body': """
+__dirname
+    """
