@@ -1,0 +1,6 @@
+".source.js":
+  'import':
+    'prefix': 'exit'
+    'body': """
+process.exit()
+    """
